@@ -1,6 +1,12 @@
 # NeuralNetworks
 University Autonomous of Nuevo Leon - [UANL MEXICO]
+
 This was my thesis project - Jacob Ortiz Escobedo 
+
+jacob.ortizescb@uanl.edu.mx
+
+jacob.ortiz@gmail.com
+
 Train Neural Network with ABC and Backpropagation
 
 This is a little project about how to train a neural network using Artificial Bee Colony and Backpropagation
