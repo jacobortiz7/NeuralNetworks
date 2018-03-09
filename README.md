@@ -1,5 +1,5 @@
 # Neural Networks
-University Autonomous of Nuevo Leon - [UANL MEXICO]
+Autonomous University of Nuevo Leon - [UANL MEXICO]
 
 This was my thesis project - Jacob Ortiz Escobedo 
 
